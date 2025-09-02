@@ -26,14 +26,26 @@ I am currently seeking full-time opportunities in:
   
 ### Skills
 
-Programming Languages: 
+Programming: 
 <p>
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-0B00CF">
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-300A6E">
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-FF00C3">
+<img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-FF0090">
 <img alt="Static Badge" src="https://img.shields.io/badge/C-FF2D2B">
 <img alt="Static Badge" src="https://img.shields.io/badge/Swift-C10A28">
+  
 </p>
 
+Web:
+<p>
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-aea2f0">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS-fed040">
+<img alt="Static Badge" src="https://img.shields.io/badge/NodeJS-1bb476">
+<img alt="Static Badge" src="https://img.shields.io/badge/Angular-0b43dc">
+<img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-fc3f21">  
+<img alt="Static Badge" src="https://img.shields.io/badge/REST%20APIs-d0d1ad">
+</p>
 AI/ML: 
 <p>
 <img alt="Static Badge" src="https://img.shields.io/badge/TensorFlow-281450">
@@ -42,17 +54,19 @@ AI/ML:
 <img alt="Static Badge" src="https://img.shields.io/badge/Scikit%20Learn-c80050">
 <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-6464b4">
 <img alt="Static Badge" src="https://img.shields.io/badge/Numpy-14b450">
-<img alt="Static Badge" src="https://img.shields.io/badge/Decision%20Trees-6464b4">
+<img alt="Static Badge" src="https://img.shields.io/badge/Decision%20Trees-5E5EFF">
+<img alt="Static Badge" src="https://img.shields.io/badge/LLMs-0037FF">
+<img alt="Static Badge" src="https://img.shields.io/badge/XGBoost-D063FF">
 </p>
-
 
 NLP:
 <p>
 <img alt="Static Badge" src="https://img.shields.io/badge/POS%20Tagging-007BFF">
-<img alt="Static Badge" src="https://img.shields.io/badge/Part%20Of%20Speech%20Tagging-1E90FF">
 <img alt="Static Badge" src="https://img.shields.io/badge/Named%20Entity%20Recognition-00CED1">
 <img alt="Static Badge" src="https://img.shields.io/badge/Hidden%20Markov%20Models-FFC107">
 <img alt="Static Badge" src="https://img.shields.io/badge/Word2Vec-6C757D">
+<img alt="Static Badge" src="https://img.shields.io/badge/BERT-1E90FF">
+<img alt="Static Badge" src="https://img.shields.io/badge/LSTM-05EBD5">
 </p>
 
 
@@ -80,7 +94,11 @@ NLP:
  
 <p><a href="https://www.linkedin.com/in/vyasrsrinivasan/">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</a></p>
+</a>
+<a href="mailto:vyas0320@gmail.com">
+<img src="https://www.clipartmax.com/png/middle/186-1861294_email-icon-square-png.png"  width="48" height="44" alt="email icon"  />
+  </a>
+</p>
 
 
 <!--
