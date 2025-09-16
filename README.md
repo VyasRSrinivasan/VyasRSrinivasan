@@ -82,22 +82,22 @@ I am currently seeking full-time opportunities in:
 
 
 ### Certifications
-<p><b>Data Privacy Fundamentals</b><br>
+<p><b>Data Privacy Fundamentals</b> -
 <i>Northeastern University</i><br> 
 Coursera<br>
 July 2025</p>
 
-<p><b>Generative AI for Large Language Models</b><br>
+<p><b>Generative AI for Large Language Models</b> -
 <i>DeepLearning.AI</i><br>
 Coursera<br>
 June 2024</p>
 
-<p><b>Cybersecurity in the Cloud Specialization</b><br>
+<p><b>Cybersecurity in the Cloud Specialization</b> -
 <i>University of Minnesota</i><br>
 Coursera<br>
 June 2023</p>
 
-<p><b>AWS Cloud Technical Essentials</b><br>
+<p><b>AWS Cloud Technical Essentials</b> -
 <i>Amazon Web Services (AWS)</i><br>
 Coursera<br>
 June 2023</p>
