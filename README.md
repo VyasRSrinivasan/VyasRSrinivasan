@@ -1,4 +1,5 @@
-<img src="https://img.freepik.com/premium-photo/virtual-neural-networks-artificial-intelligence-machine-learning-banner-wallpaper-made-with-generative-ai_155027-3423.jpg" width ="1500" />
+<img src="https://img.pikbest.com/backgrounds/20250418/ai-technology-abstract-png-futuristic-flat-design-for-innovation-data-ai_11672196.jpg!w700wp" style="border-radius:50%" width ="1500">
+
 
 ## Hi there, I am Vyas Srinivasan! 👋
 
@@ -8,15 +9,15 @@ Welcome to my GitHub profile! I am very passionate about AI/ML and leveraging it
 Name: Vyas Srinivasan
 
 ### Education
-<img src="https://viterbischool.usc.edu/wp-content/uploads/2021/04/USC-Viterbi-School-of-Engineering.png"  height="55" alt="USC logo"  /> 
-<p><b>University of Southern California (USC)</b></p>
-<p><em>M.S. Computer Science (Artificial Intelligence)</em></p>
-<p>August 2022 - December 2024</p>
+<p><img src="https://viterbischool.usc.edu/wp-content/uploads/2021/04/USC-Viterbi-School-of-Engineering.png"  height="55" alt="USC logo"  /> <br>
+<b>University of Southern California (USC)</b><br>
+<em>M.S. Computer Science (Artificial Intelligence)</em><br>
+August 2022 - December 2024</p>
 
-<img src="https://ecs-pw-facweb.ecs.csus.edu/~haiquan.chen/ECS.jpg" height="55" alt="SacState logo"  /> 
-<p><b>California State University, Sacramento</b></p>
-<p><em>B.S. Computer Science</em></p>
-<p>August 2018 - May 2022</p>
+<p><img src="https://ecs-pw-facweb.ecs.csus.edu/~haiquan.chen/ECS.jpg" height="55" alt="SacState logo"  /> <br>
+<b>California State University, Sacramento</b><br>
+<em>B.S. Computer Science</em><br>
+August 2018 - May 2022</p>
 
 ### Career Interests
 I am currently seeking full-time opportunities in:
@@ -26,8 +27,7 @@ I am currently seeking full-time opportunities in:
   
 ### Skills
 
-Programming: 
-<p>
+<p>Programming: <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-0B00CF">
 <img alt="Static Badge" src="https://img.shields.io/badge/Java-300A6E">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-FF00C3">
@@ -37,8 +37,7 @@ Programming:
   
 </p>
 
-Web:
-<p>
+<p>Web:<br>
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-aea2f0">
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS-fed040">
 <img alt="Static Badge" src="https://img.shields.io/badge/NodeJS-1bb476">
@@ -46,8 +45,8 @@ Web:
 <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-fc3f21">  
 <img alt="Static Badge" src="https://img.shields.io/badge/REST%20APIs-d0d1ad">
 </p>
-AI/ML: 
-<p>
+
+<p>AI/ML: <br>
 <img alt="Static Badge" src="https://img.shields.io/badge/TensorFlow-281450">
 <img alt="Static Badge" src="https://img.shields.io/badge/Pytorch-141414">
 <img alt="Static Badge" src="https://img.shields.io/badge/Support%20Vector%20Machine-141450">
@@ -59,8 +58,7 @@ AI/ML:
 <img alt="Static Badge" src="https://img.shields.io/badge/XGBoost-D063FF">
 </p>
 
-NLP:
-<p>
+<p>NLP:<br>
 <img alt="Static Badge" src="https://img.shields.io/badge/POS%20Tagging-007BFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/Named%20Entity%20Recognition-00CED1">
 <img alt="Static Badge" src="https://img.shields.io/badge/Hidden%20Markov%20Models-FFC107">
@@ -85,10 +83,25 @@ NLP:
 
 
 ### Certifications
-* <p>Data Privacy Fundamentals - Northeastern University, Coursera, July 2025</p>
-* <p>Generative AI for Large Language Models - DeepLearning.AI, Coursera, June 2024</p>
-* <p>Cybersecurity in the Cloud Specialization - University of Minnesota, Coursera, June 2023</p>
-* <p>AWS Cloud Technical Essentials - Amazon Web Services (AWS), Coursera, June 2023</p>
+<p><b>Data Privacy Fundamentals</b><br>
+<i>Northeastern University</i><br> 
+Coursera<br>
+July 2025</p>
+
+<p><b>Generative AI for Large Language Models</b><br>
+<i>DeepLearning.AI</i><br>
+Coursera<br>
+June 2024</p>
+
+<p><b>Cybersecurity in the Cloud Specialization</b><br>
+<i>University of Minnesota</i><br>
+Coursera<br>
+June 2023</p>
+
+<p><b>AWS Cloud Technical Essentials</b><br>
+<i>Amazon Web Services (AWS)</i><br>
+Coursera<br>
+June 2023</p>
 
 ### Connect with Me
  
@@ -115,3 +128,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
