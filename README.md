@@ -1,6 +1,5 @@
 <img src="https://img.pikbest.com/backgrounds/20250418/ai-technology-abstract-png-futuristic-flat-design-for-innovation-data-ai_11672196.jpg!w700wp" style="border-radius:50%" width ="1500">
 
-
 ## Hi there, I am Vyas Srinivasan! 👋
 
 Welcome to my GitHub profile! I am very passionate about AI/ML and leveraging it to contribute to a more connected world.
@@ -9,13 +8,13 @@ Welcome to my GitHub profile! I am very passionate about AI/ML and leveraging it
 Name: Vyas Srinivasan
 
 ### Education
-<p><img src="https://viterbischool.usc.edu/wp-content/uploads/2021/04/USC-Viterbi-School-of-Engineering.png"  height="55" alt="USC logo"  /> <br>
-<b>University of Southern California (USC)</b><br>
+<p>
+<b>University of Southern California (USC)</b> - 
 <em>M.S. Computer Science (Artificial Intelligence)</em><br>
 August 2022 - December 2024</p>
 
-<p><img src="https://ecs-pw-facweb.ecs.csus.edu/~haiquan.chen/ECS.jpg" height="55" alt="SacState logo"  /> <br>
-<b>California State University, Sacramento</b><br>
+<p>
+<b>California State University, Sacramento</b> -
 <em>B.S. Computer Science</em><br>
 August 2018 - May 2022</p>
 
