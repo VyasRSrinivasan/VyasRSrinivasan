@@ -23,6 +23,8 @@ I am currently seeking full-time opportunities in:
 - Software Engineering
 - Software Development
 - Machine Learning
+- Cybersecurity
+- Product Management
   
 ### Skills
 
