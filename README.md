@@ -20,9 +20,8 @@ August 2018 - May 2022</p>
 
 ### Career Interests
 I am currently seeking full-time opportunities in:
-- Software Engineering
-- Software Development
-- Machine Learning
+- Artificial Intelligence (AI) / Machine Learning (ML)
+- Software Development / Engineering
 - Cybersecurity
 - Product Management
   
