@@ -82,6 +82,12 @@ I am currently seeking full-time opportunities in:
 
 
 ### Certifications
+
+<p><b>Enterprise Product Management Fundamentals</b> -
+<i>Microsoft</i><br> 
+Coursera<br>
+October 2025</p>
+
 <p><b>Data Privacy Fundamentals</b> -
 <i>Northeastern University</i><br> 
 Coursera<br>
