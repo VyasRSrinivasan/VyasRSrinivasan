@@ -23,7 +23,6 @@ I am currently seeking full-time opportunities in:
 - Artificial Intelligence (AI) / Machine Learning (ML)
 - Software Development / Engineering
 - Cybersecurity
-- Product Management
   
 ### Skills
 
@@ -70,7 +69,7 @@ I am currently seeking full-time opportunities in:
 
 
 
-### Projects
+### Academic Projects
 
 * <p>Generative AI and Diffusion Models in Wireless Communications</p>
 
