@@ -5,7 +5,8 @@
 Welcome to my GitHub profile! I am very passionate about AI/ML and leveraging it to contribute to a more connected world.
 
 ### About Me
-Name: Vyas Srinivasan
+Passionate about building intelligent systems that integrate technology and human behavior.
+I'm always eager to explore applied AI, machine learning, and GenAI projects!
 
 ### Education
 <p>
