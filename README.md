@@ -24,6 +24,7 @@ I am currently seeking full-time opportunities in:
 - Artificial Intelligence (AI) / Machine Learning (ML)
 - Software Development / Engineering
 - Cybersecurity
+- Data Scientist / Analyst
   
 ### Skills
 
@@ -56,6 +57,8 @@ I am currently seeking full-time opportunities in:
 <img alt="Static Badge" src="https://img.shields.io/badge/Decision%20Trees-5E5EFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/LLMs-0037FF">
 <img alt="Static Badge" src="https://img.shields.io/badge/XGBoost-D063FF">
+<img alt="Static Badge" src="https://img.shields.io/badge/Agentic%20AI-03dbfc">
+<img alt="Static Badge" src="https://img.shields.io/badge/Prompt%20Engineering-db03fc">
 </p>
 
 <p>NLP:<br>
@@ -68,7 +71,10 @@ I am currently seeking full-time opportunities in:
 </p>
 
 
-
+### Personal Projects
+* <p><a href="https://github.com/VyasRSrinivasan/AI-Social-Engineering-Scam-Detector">Social Engineering Scam Detection using LLMs</a></p>
+* <p><a href="https://github.com/VyasRSrinivasan/Carnatic-Raga-Classification">Indian Carnatic Raga Classification</a></p>
+* <p><a href="https://github.com/VyasRSrinivasan/AI-for-Applied-Behavioral-Analysis">Applied Behavioral Analysis (ABA) Based Chatbot</a></p>
 
 ### Academic Projects
 
