@@ -73,7 +73,6 @@ I am currently seeking full-time opportunities in:
 
 ### Personal Projects
 * <p><a href="https://github.com/VyasRSrinivasan/AI-Social-Engineering-Scam-Detector">Social Engineering Scam Detection using LLMs</a></p>
-* <p><a href="https://github.com/VyasRSrinivasan/Carnatic-Raga-Classification">Indian Carnatic Raga Classification</a></p>
 * <p><a href="https://github.com/VyasRSrinivasan/AI-for-Applied-Behavioral-Analysis">Applied Behavioral Analysis (ABA) Based Chatbot</a></p>
 
 ### Academic Projects
