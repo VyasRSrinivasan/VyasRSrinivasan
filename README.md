@@ -20,7 +20,7 @@ August 2022 - December 2024</p>
 August 2018 - May 2022</p>
 
 ### Career Interests
-I am currently seeking full-time opportunities in:
+
 - Artificial Intelligence (AI) / Machine Learning (ML)
 - Software Development / Engineering
 - Cybersecurity
@@ -72,8 +72,14 @@ I am currently seeking full-time opportunities in:
 
 
 ### Personal Projects
-* <p><a href="https://github.com/VyasRSrinivasan/AI-Social-Engineering-Scam-Detector">Social Engineering Scam Detection using LLMs</a></p>
+
 * <p><a href="https://github.com/VyasRSrinivasan/AI-for-Applied-Behavioral-Analysis">Applied Behavioral Analysis (ABA) Based Chatbot</a></p>
+
+* <p><a href="https://github.com/VyasRSrinivasan/AI-Agentic-IT-Support-Ticket-Router">Agentic IT Support Ticket Router</a></p>
+
+* <p><a href="https://github.com/VyasRSrinivasan/ai-news-bot">AI News Bot</a></p>
+
+* <p><a href="https://github.com/VyasRSrinivasan/stock-market-prediction"></a>Regime-Based Stock Market Simulation Tool</p>
 
 ### Academic Projects
 
@@ -89,10 +95,6 @@ I am currently seeking full-time opportunities in:
 
 ### Certifications
 
-<p><b>Enterprise Product Management Fundamentals</b> -
-<i>Microsoft</i><br> 
-Coursera<br>
-October 2025</p>
 
 <p><b>Data Privacy Fundamentals</b> -
 <i>Northeastern University</i><br> 
